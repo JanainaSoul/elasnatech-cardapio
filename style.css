@@ -1,6 +1,6 @@
 body {
     background-color: #2F5F89;
-    background-image: url("./img/cafe4.jpg");
+    background-image: src= "./img/cafe4.jpg";
     background-repeat: repeat-y;
     background-position: center;
 }
